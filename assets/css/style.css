@@ -10,7 +10,7 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #444444;
+  color: #a7a3a3;
 }
 
 a {
@@ -148,7 +148,7 @@ h1, h2, h3, h4, h5, h6 {
   padding-right: 15px;
 }
 .header-social-links a {
-  color: #6f6f6f;
+  color: #7e7979;
   padding-left: 6px;
   display: inline-block;
   line-height: 0px;
